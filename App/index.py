@@ -7,6 +7,7 @@ import keyboard
 
 class CleanKeyboard():
     """App general it's clean"""
+
     def __init__(
         selfs
     ):
