@@ -11,3 +11,6 @@
   <img width="98" height="28" src="https://i.imgur.com/QLTb1AC.png">
 </p>
 
+# Notes of the version 📝
+
+## 1. Some keyboard functions have been added as well as the installation panel
