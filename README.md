@@ -30,6 +30,7 @@
 
 <img width="78" height="25" src="https://i.imgur.com/omeEsEY.png">
 
+##
 ## ⚙️⚙️ㅤRecommendations for systemㅤ⚙️⚙️
 
 ### > Minimum CPU = Intel 5
