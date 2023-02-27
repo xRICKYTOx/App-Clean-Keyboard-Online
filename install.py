@@ -403,12 +403,12 @@ def InstallApp(path):
 
             # Link ==> acceso directo
             desktop = f'C:/Users/{user_pc}/OneDrive/Escritorio'
-            path_move_link = f'{path_complet}/Clean-Keyboard.lnk'
+            path_move_link = f'{path}/CleanKeyboard/DesktopLnk/CleanKeyboard.lnk'
 
             # Moved ==> panel apps
 
             panel_apps = 'C:\ProgramData\Microsoft\Windows\Start Menu\Programs'
-            path_move_link_int_apps = f"{path_complet}/CleanKeyboard.lnk"
+            path_move_link_int_apps = f"{path}/CleanKeyboard/PanelAppsLnk/CleanKeyboard.lnk"
 
             # Moved's
             shutil.move(arch, path_complet)
