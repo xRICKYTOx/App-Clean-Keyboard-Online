@@ -1,4 +1,8 @@
 # CLEAN KEYBOARD
 
-https://i.imgur.com/HREytYT.png
+
+<p align="center">
+  <img width="460" height="460" src="https://i.imgur.com/HREytYT.png">
+</p>
+
 
