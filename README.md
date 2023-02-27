@@ -30,10 +30,10 @@
 
 <img width="78" height="25" src="https://i.imgur.com/omeEsEY.png">
 
-### ⚙️⚙️ㅤRecommendations for systemㅤ⚙️⚙️
+## ⚙️⚙️ㅤRecommendations for systemㅤ⚙️⚙️
 
-#### > Minimum CPU = Intel 5
-#### > Minimum RAM = 8 GB
+### > Minimum CPU = Intel 5
+### > Minimum RAM = 8 GB
 
 ##
 ## 🗝️🔓ㅤAll of this program's source code is open and changes are accepted to improve its functionalityㅤ🔓🗝️
