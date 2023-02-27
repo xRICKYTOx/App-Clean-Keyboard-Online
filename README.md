@@ -1,4 +1,4 @@
-# 🛡️💉   CLEAN KEYBOARD        v1.0.0   💉🛡️
+# 🛡️💉   CLEAN KEYBOARD                        v1.0.0   💉🛡️
 
 
 <p align="center">
