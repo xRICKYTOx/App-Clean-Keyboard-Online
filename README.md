@@ -11,6 +11,6 @@
   <img width="78" height="25" src="https://i.imgur.com/XcZMirD.png">
 </p>
 
-# Notes of the version 📝
+## Notes of the version 📝
 
-## 1. Some keyboard functions have been added as well as the installation panel
+### 1. Some keyboard functions have been added as well as the installation panel
