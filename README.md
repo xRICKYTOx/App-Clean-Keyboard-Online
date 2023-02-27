@@ -18,6 +18,7 @@
 ### 2. The application only supports 1920x1080 with 150% zoom, and 1280x600 with 100% zoom.
 ### 3. Recommended resolution 1920x1080 with 100% zoom.
 
+##
 ## 🔊🗂️   Note: The antivirus detects the program as a virus, but this is due to the method we used to convert the .py file to .exe. Please disable it or grant permissions to the application for its execution. If you feel unsure, please review the code by yourself. It is located at the top and named CodeInstallCleanKeyboard and CodeCleanKeyboard.   🗂️🔊
 
 
@@ -30,6 +31,7 @@
 #### > Minimum CPU = Intel 5
 #### > Minimum RAM = 8 GB
 
+##
 ## 🔓   All of this program's source code is open and changes are accepted to improve its functionality   🔓
 ## 🗓️📅   New Update   📅🗓️
 
