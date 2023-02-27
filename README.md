@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img width="78" height="28" src="https://i.imgur.com/gQZqzLB.png">
-  <img width="78" height="28" src="https://i.imgur.com/QLTb1AC.png">
+  <img width="88" height="28" src="https://i.imgur.com/gQZqzLB.png">
+  <img width="88" height="28" src="https://i.imgur.com/QLTb1AC.png">
 </p>
 
