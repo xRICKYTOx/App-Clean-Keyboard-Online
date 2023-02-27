@@ -19,8 +19,11 @@
 ### 3. Recommended resolution 1920x1080 with 100% zoom.
 
 ##
-## 🔊🗂️ㅤNote: The antivirus detects the program as a virus, but this is due to the method we used to convert the .py file to .exe. Please disable it or grant permissions to the application for its execution. If you feel unsure, please review the code by yourself. It is located at the top and named CodeInstallCleanKeyboard and CodeCleanKeyboard.ㅤ🗂️🔊
+## 🔊🗂️ㅤNoteㅤ🗂️🔊
 
+### The antivirus detects the program as a virus, but this is due to the method we used to convert the .py file to .exe. Please disable it or grant permissions to the application for its execution. If you feel unsure, please review the code by yourself. It is located at the top and named CodeInstallCleanKeyboard and CodeCleanKeyboard.
+
+##
 
 ## 💻🖱️ㅤSystem Supportㅤ🖱️💻
 
