@@ -13,4 +13,4 @@
 
 ## Notes of the version 📝
 
-### 1. Some keyboard functions have been added as well as the installation panel
+### 1. Some keyboard functions have been added as well as the installation panel.
