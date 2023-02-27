@@ -7,8 +7,8 @@
 
 
 <p align="center">
-  <img width="78" height="20" src="https://i.imgur.com/Z8rsYDh.png">
-  <img width="78" height="20" src="https://i.imgur.com/XcZMirD.png">
+  <img width="78" height="25" src="https://i.imgur.com/Z8rsYDh.png">
+  <img width="78" height="25" src="https://i.imgur.com/XcZMirD.png">
 </p>
 
 # Notes of the version 📝
