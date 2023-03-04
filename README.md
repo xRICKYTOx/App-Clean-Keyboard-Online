@@ -35,6 +35,7 @@
 
 ### > Minimum CPU = Intel 5
 ### > Minimum RAM = 8 GB
+### > You require an internet connection
 
 ##
 ## 🗝️🔓ㅤAll of this program's source code is open and changes are accepted to improve its functionalityㅤ🔓🗝️
