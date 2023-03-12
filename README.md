@@ -35,7 +35,7 @@
 
 ### > Minimum CPU = Intel i3 2Gen or Rayzen 33600G
 ### > Minimum RAM = 4 GB
-### > You require an internet connection
+### > You require an internet connection.
 
 ##
 ## 🗝️🔓ㅤAll of this program's source code is open and changes are accepted to improve its functionalityㅤ🔓🗝️
