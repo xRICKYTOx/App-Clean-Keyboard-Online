@@ -40,13 +40,3 @@
 ##
 ## 🗝️🔓ㅤAll of this program's source code is open and changes are accepted to improve its functionalityㅤ🔓🗝️
 
-## 📦📥ㅤNew Updateㅤ📥📦
-
-### 1️⃣5️⃣ㅤ▫️ㅤ0️⃣3️⃣ㅤ▫️ㅤ2️⃣0️⃣2️⃣3️⃣
-
-##
-## 📅🗓️ㅤDates For Updateㅤ🗓️📅
-
-### 1️⃣1️⃣
-
-##
