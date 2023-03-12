@@ -33,8 +33,8 @@
 ##
 ## ⚙️⚙️ㅤRecommendations for systemㅤ⚙️⚙️
 
-### > Minimum CPU = Intel 5
-### > Minimum RAM = 8 GB
+### > Minimum CPU = Intel i3 2Gen or Rayzen 33600G
+### > Minimum RAM = 4 GB
 ### > You require an internet connection
 
 ##
